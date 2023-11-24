@@ -1,5 +1,5 @@
 {
-  "name": "doc-appoinment-system",
+  "name": "hospital-management-system",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "techinfyt",
+  "author": "Nikhil",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
